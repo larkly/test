@@ -32,8 +32,18 @@ menu:
       params:
         type: search
 
+enableGitInfo: true
 
 params:
+  theme:
+    default: light
+    displayToggle: false
+
+  banner:
+    key: 'announcement-123'
+    message: |
+      🎉 Welcome! [Hextra](https://github.com/hextra/hextra) is a static site generator that helps you build modern websites.
+      
   navbar:
     displayTitle: true
     displayLogo: false

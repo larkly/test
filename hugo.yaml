@@ -38,7 +38,9 @@ params:
   theme:
     default: light
     displayToggle: false
-
+    
+  externalLinkDecoration: true
+  
   banner:
     key: 'announcement-123'
     message: |

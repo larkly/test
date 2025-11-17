@@ -1,17 +1,10 @@
 ---
-title: My Site
+title: Velkommen til FAU Bønsmoen
 toc: false
 ---
 
-This is the landing page.
+Gå [hit](https://docs.google.com/document/d/1YPuNB4f0cMjUXaSaVcGLxQKHKL-V2KB7-JCo6YckI3o/edit?tab=t.0#heading=h.lv6zlvrhpp02) for de gamle sidene som inneholder en del nyttig informasjon.
 
-## Explore
-
-{{< cards >}}
-  {{< card link="docs" title="Docs" icon="book-open" >}}
-  {{< card link="about" title="About" icon="user" >}}
-{{< /cards >}}
-
-## Documentation
-
-For more information, visit [Hextra](https://imfing.github.io/hextra).
+{{< callout type="warning" >}}
+[Lenke til spørreundersøkelse om skolemiljøet](https://docs.google.com/forms/d/e/1FAIpQLSe98xDTNRWvSfktSWGhI0ekw7qO-aGRZ-yzydPEyqzdHq2dfQ/viewform)
+{{< /callout >}}

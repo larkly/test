@@ -1,13 +1,22 @@
 ---
 title: This is my first blog
-toc: false
+date: 2025-11-18
+authors:
+  - name: imfing
+    link: https://github.com/imfing
+    image: https://github.com/imfing.png
+tags:
+  - Release
 ---
 
-# This is a blog yey
+Hextra v0.11.0 focuses on UX polish and useful new components: site-wide banner, improved callouts and badges, richer cards, analytics integrations, and several navigation refinements. It also ships stability fixes and documentation updates.
 
-So this is a blog, hey yo here we go
+<!--more-->
 
-## Let's go
+## Upgrade Guide
 
-Yoyoyo
+No breaking changes are expected for most sites. Update using [Hugo Modules](https://gohugo.io/hugo-modules/use-modules/):
 
+```bash
+hugo mod get -u github.com/imfing/hextra
+```

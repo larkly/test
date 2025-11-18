@@ -2,7 +2,7 @@
 title: This is my first blog
 date: 2025-11-18
 authors:
-  - name: imfing
+  - name: Bosse Klykken
     link: https://github.com/larkly
     image: https://github.com/larkly.png
 tags:

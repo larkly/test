@@ -3,8 +3,8 @@ title: This is my first blog
 date: 2025-11-18
 authors:
   - name: imfing
-    link: https://github.com/imfing
-    image: https://github.com/imfing.png
+    link: https://github.com/larkly
+    image: https://github.com/larkly.png
 tags:
   - Release
 ---

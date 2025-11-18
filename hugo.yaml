@@ -1,5 +1,5 @@
 # Hugo configuration file
-title: FAU xxxxxxx
+title: FAU Bønsmoen (test)
 
 # import hextra as module
 module:
@@ -40,14 +40,14 @@ enableGitInfo: true
 params:
   theme:
     default: light
-    displayToggle: false
+    displayToggle: true
     
   externalLinkDecoration: true
   
-  banner:
-    key: 'announcement-123'
-    message: |
-      🎉 Welcome! [Hextra](https://github.com/hextra/hextra) is a static site generator that helps you build modern websites.
+#  banner:
+#    key: 'announcement-123'
+#    message: |
+#      🎉 Welcome! [Hextra](https://github.com/hextra/hextra) is a static site generator that helps you build modern websites.
       
   navbar:
     displayTitle: true
@@ -55,7 +55,7 @@ params:
 
   footer:
     displayCopyright: false
-    displayPoweredBy: true
+    displayPoweredBy: false
 
   editURL:
     enable: true
